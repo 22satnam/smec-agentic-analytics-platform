@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./enterprise-agentic-analytics-platform.png"
+  <img src="./smec-agentic-analytics-platform.png"
        alt="Enterprise Agentic Analytics Platform"
        width="760" />
 </p>
